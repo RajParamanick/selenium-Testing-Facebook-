@@ -1,0 +1,2 @@
+# selenium-Testing-Facebook-
+VerifyThatUserCanCreateAccountWithMandotaryDetails
